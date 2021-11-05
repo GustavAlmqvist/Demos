@@ -5,6 +5,6 @@ As some projects are made in large frameworks only the files of interest are add
 
 Todo - a simple php CRUD application. To be added: priority selector and colorcoding, filtering.
 
-Counter - a simple javascript counter. To be added: support to add multiple timers, increase by larger quantity and name the timers.
+Counter - a simple javascript counter. To be added: support to add multiple counters, increase by larger quantity and name the timers.
 
 Videos of functionality will be added.
