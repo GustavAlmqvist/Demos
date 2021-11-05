@@ -7,4 +7,6 @@ Todo - a simple php CRUD application. To be added: priority selector and colorco
 
 Counter - a simple javascript counter. To be added: support to add multiple counters, increase by larger quantity and name the timers.
 
+Pomodoro - javascript pomodoro timer. To be added: improve front end design, barebones but functional at the moment.
+
 Videos of functionality will be added.
