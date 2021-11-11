@@ -9,6 +9,6 @@ Counter - a simple javascript counter. To be added: support to add multiple coun
 
 Pomodoro - javascript pomodoro timer. To be added: improve front end design, barebones but functional at the moment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8P2eyhlwzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/Z8P2eyhlwzs
 
 Videos of functionality will be added.
